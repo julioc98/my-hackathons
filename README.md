@@ -21,7 +21,7 @@ Motorola MOD the future 20 e 21 de maio de 2017 - https://www.hellomoto.com.br/h
 
 FIESP 6ª EDIÇÃO 5 e 6 de agosto de 2017 - https://startupi.com.br/evento/6o-hackathon-fiesp/
 
-Guarulhos - Experimenta Mobilidade Urbana 27 e 28 agosto de 2017
+Guarulhos - Experimenta Mobilidade Urbana 27 e 28 agosto de 2017 -http://www.guarulhos.sp.gov.br/desenvolvimento-economico/conteudo/experimenta-apresenta-solu%C3%A7%C3%B5es-para-mobilidade-urbana-em
 
 IBM - Bluehack 11 a 12 de Novembro de 2017 - https://www.blueopen.org/bluehacksp
 
