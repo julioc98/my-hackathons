@@ -14,6 +14,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### IBM - Bluehack Desafio DOW de Agricultura Urbana 
 5 a 6 de novembro de 2016  
 - https://www.facebook.com/IBMBrasil/posts/1213105558728307
+- https://www.thebrief.com.br/empreendedorismo/115296-bluehack-reune-700-entusiastas-tecnologia-paulo.htm
 
 ### Santander- The Code Force 
 10 e 11 de dezembro de 2016
@@ -24,7 +25,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - https://app.multitalentos.com.br/challenge/hackanoel 
 - https://app.multitalentos.com.br/challenge/hackanoel/teams/toys
 
-### IBM -Bluehack 
+### IBM -Bluehack Desafio Agro
 25 e 26 de março de 2017 
 - https://www.impacta.edu.br/artigo/aluno-impacta-vence-hackathon-ibm
 
@@ -34,8 +35,7 @@ https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
 
 ### Motorola MOD the future 
 20 e 21 de maio de 2017
-
-https://www.hellomoto.com.br/hackathon-mod-the-future-nos-vimos-o-futuro/
+- https://www.hellomoto.com.br/hackathon-mod-the-future-nos-vimos-o-futuro/
 
 ### FIESP 6ª EDIÇÃO 
 5 e 6 de agosto de 2017 
