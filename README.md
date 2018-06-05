@@ -3,7 +3,9 @@ Todos os Hackathons em que eu participei
 
 Não vou considerar como hackathons algumas competições em que eu participei e tinham formato parecido com hackathons mas realmente não as achei pertinentes de receberem esse nome...
 
-GS1 06 e 07 de Agosto de 2016 - https://www.gs1br.org/hackathon#main
+## GS1 
+06 e 07 de Agosto de 2016 *  
+https://www.gs1br.org/hackathon#main
 
 FIESP 5ª EDIÇÃO 15 e 16 de outubro de 2016 - http://www.fiesp.com.br/noticias/fiesp-anuncia-vencedores-da-5a-edicao-do-hackathon/
 
