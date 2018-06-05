@@ -25,7 +25,9 @@ Guarulhos - Experimenta Mobilidade Urbana 27 e 28 agosto de 2017 -http://www.gua
 
 IBM - Bluehack 11 a 12 de Novembro de 2017 - https://www.blueopen.org/bluehacksp
 
-Petrobras (Postos BR) (Rio de Janeiro -RJ) 30/09 e 01/10 de 2017 - http://hotsitesbr.com.br/hackathon/
+Petrobras (Postos BR) (Rio de Janeiro -RJ) 30 de setembro e 01 de outubro de 2017 - http://hotsitesbr.com.br/hackathon/
+
+ABRAMIT - MIT INSIGHTS 14 e 15 de novembro de 2017 - http://abramit.org/hackathon.html
 
 Original  2 e 3 de dezembro de 2017 - http://fintechlab.com.br/index.php/2017/12/01/banco-original-faz-hackathon-com-foco-em-inteligencia-artificial-e-open-banking/
  
@@ -33,6 +35,8 @@ Google.org - TA DE PÉ 10 e 11 de março de 2018 - https://www.transparencia.org
 
 Expo CIEE São Paulo 25 a 27 de maio 2018 - http://maringa.odiario.com/empregos/2018/05/coddera-promove-hackathon-na-feira-do-estudante-do-ciee-com-foco-em-solucoes-de-atendimento-ao-cliente/2494372/
 https://www.youtube.com/watch?v=Lm_n-il4Sc8
+
+Uber HACK: São Paulo 02 e 03 de junho de 2018 - https://www.uber.com/info/uberhack/sao-paulo/
 
 
 
