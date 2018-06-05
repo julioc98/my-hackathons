@@ -30,8 +30,8 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - https://www.impacta.edu.br/artigo/aluno-impacta-vence-hackathon-ibm
 
 ### NASA - Space Apps (Curitiba- PR) 
-29 e 30 de abril de 2017 
-https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
+29 e 30 de abril de 2017
+- https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
 
 ### Motorola MOD the future 
 20 e 21 de maio de 2017
