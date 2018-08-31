@@ -78,3 +78,6 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 09 e 10 de junho de 2018 
 - http://hackathonciab.com.br/
 
+### Serasa Experian - Experiance Jam (São Carlos - SP)
+18 e 19 de agosto de 2018 
+- http://experiancejam.com.br/
