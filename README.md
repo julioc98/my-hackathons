@@ -65,6 +65,10 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 10 e 11 de março de 2018 
 - https://www.transparencia.org.br/blog/diversidade-gera-mais-inovacao-na-hackathon-ta-de-pe/
 
+### APAS Show
+08 a 09 de maio 2018 
+-http://www.apasshow.com.br/arena-hackaton-tem-inicio-com-grandes-desafios-para-reduzir-filas-e-controle-de-prazos-de-validade/
+
 ### Expo CIEE São Paulo 
 25 a 27 de maio 2018 
 - http://maringa.odiario.com/empregos/2018/05/coddera-promove-hackathon-na-feira-do-estudante-do-ciee-com-foco-em-solucoes-de-atendimento-ao-cliente/2494372/
