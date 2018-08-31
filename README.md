@@ -81,3 +81,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### Serasa Experian - Experiance Jam (São Carlos - SP)
 18 e 19 de agosto de 2018 
 - http://experiancejam.com.br/
+
+### Tech Cycle Challenge
+25 e 26 de agosto de 2018
+- http://www.bikebrasilexpo.com.br/pt/tech-cycle-challenge
