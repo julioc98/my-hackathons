@@ -68,11 +68,13 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### Expo CIEE São Paulo 
 25 a 27 de maio 2018 
 - http://maringa.odiario.com/empregos/2018/05/coddera-promove-hackathon-na-feira-do-estudante-do-ciee-com-foco-em-solucoes-de-atendimento-ao-cliente/2494372/
-https://www.youtube.com/watch?v=Lm_n-il4Sc8
+- https://www.youtube.com/watch?v=Lm_n-il4Sc8
 
 ### Uber HACK: São Paulo 
 02 e 03 de junho de 2018 
 - https://www.uber.com/info/uberhack/sao-paulo/
 
-
+### 2º CIAB FEBRABAN 
+09 e 10 de junho de 2018 
+- http://hackathonciab.com.br/
 
