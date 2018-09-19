@@ -32,6 +32,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### NASA - Space Apps (Curitiba- PR) 
 29 e 30 de abril de 2017
 - https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
+- https://g1.globo.com/tecnologia/hackathon/2017/noticia/brasileiros-se-classificam-para-etapa-mundial-de-hackathon-da-nasa.ghtml
 
 ### Motorola MOD the future 
 20 e 21 de maio de 2017
@@ -67,7 +68,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 
 ### APAS Show
 08 a 09 de maio 2018 
--http://www.apasshow.com.br/arena-hackaton-tem-inicio-com-grandes-desafios-para-reduzir-filas-e-controle-de-prazos-de-validade/
+- http://www.apasshow.com.br/arena-hackaton-tem-inicio-com-grandes-desafios-para-reduzir-filas-e-controle-de-prazos-de-validade/
 
 ### Expo CIEE São Paulo 
 25 a 27 de maio 2018 
