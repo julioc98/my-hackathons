@@ -90,3 +90,25 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### Tech Cycle Challenge
 25 e 26 de agosto de 2018
 - http://www.bikebrasilexpo.com.br/pt/tech-cycle-challenge
+
+### Loggathon
+15 e 16 de dezembro de 2018 
+- https://computerworld.com.br/2018/12/03/loggi-abre-inscricoes-para-seu-primeiro-hackathon/
+- https://www.hackathon.com/event/loggathon-5c081c5a347b110004c2fa6f
+- https://picgra.com/tag/loggathon
+- https://www.facebook.com/search/top/?q=loggathon%20ganhadores&epa=SEARCH_BOX
+
+### BTP:CODE - HACKATHON DOS PORTOS (Santos -SP)
+6 e 7 de abril de 2019
+- https://computerworld.com.br/2019/03/13/hackathon-em-santos-busca-solucoes-inovadoras-para-porto/
+- https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2019/04/07/escala-de-navios-com-inteligencia-artificial-vence-maratona-de-30h-para-inovacao-do-setor-portuario.ghtml
+- https://www.youtube.com/watch?v=aKGK7YBiXVw
+
+### AngelHack 2019: São Paulo
+25 e 26 de maio de 2019
+- https://www.hackathon.io/angelhack-2019-sao-paulo
+
+
+
+
+
