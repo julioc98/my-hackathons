@@ -121,5 +121,4 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 
 ### EY Global Hackathon 🥇
 25 e 26 de maio de 2019
-- https://www.facebook.com/hashtag/eyglobalhackathon?source=feed_text&epa=HASHTAG&__xts__[0]=68.ARC_npR2-eDrvFoLVNc_o_WtppZ7yHFohIRIMgmsrw0SIYme8xQVHrkaTrHVAFC7A-D7avy2dxiWAsrsQvwQ6f8lqB6044SStVL3s96FrmAUzhFogX_V-8p3Hv8vZmHcEuFxNHMNoOhgiQMTWVvCQxtnfZT01pT7ZeFghWl8oXSnn9FQbOmiP_JpMKyfyPkSoJ9-27qnSi1BNTTnqT6m2zPnAIKZJlCxh4lorszot5SguZp6dU1ZKbUH6IwT8qDcP8p1r6xSjG1VVF47JMsdO8gUrRjKZZAGJj-CkwQEASLato7fk661MnksxBLAJM2V1XJr0uPHCgpS_uwZnlv1-y-X-Q&__tn__=*NK-R
-
+- https://www.facebook.com/EYBrasil/photos/a.390593504339382/2446360372096008/?type=3
