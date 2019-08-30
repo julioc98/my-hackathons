@@ -3,13 +3,13 @@ Todos os Hackathons em que eu participei
 
 Não vou considerar como hackathons algumas competições em que eu participei e tinham formato parecido com hackathons mas realmente não as achei pertinentes de receberem esse nome...
 
-#### Total: 24 
+#### Total: 28 
 
 ### Podium
 
-- 🥇8 
+- 🥇9 
 - 🥈3 
-- 🥉1
+- 🥉2
 - 💎1*
 
 *Finalista(quando tem mais de um vencedor e não revelam a ordem de classificação)
@@ -27,7 +27,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - https://www.facebook.com/IBMBrasil/posts/1213105558728307
 - https://www.thebrief.com.br/empreendedorismo/115296-bluehack-reune-700-entusiastas-tecnologia-paulo.htm
 
-### Santander- The Code Force 💎
+### Santander - The Code Force 💎
 10 e 11 de dezembro de 2016
 - https://www.impacta.edu.br/blog/hackathon-do-santander-alunos-impacta-finalistas/
 
@@ -36,7 +36,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - https://app.multitalentos.com.br/challenge/hackanoel 
 - https://app.multitalentos.com.br/challenge/hackanoel/teams/toys
 
-### IBM -Bluehack Desafio Agro 🥇
+### IBM - Bluehack Desafio Agro 🥇
 25 e 26 de março de 2017 
 - https://www.impacta.edu.br/artigo/aluno-impacta-vence-hackathon-ibm
 
@@ -122,3 +122,18 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### EY Global Hackathon 🥇
 25 e 26 de maio de 2019
 - https://www.facebook.com/EYBrasil/photos/a.390593504339382/2446360372096008/?type=3
+
+### Uber Hack: São Paulo 
+1 e 2 de junho de 2019
+- https://www.uber.com/br/pt-br/u/uberhack/
+- https://www.uber.com/pt-BR/blog/sao-paulo/uber-hack-2019/
+- https://imasters.com.br/noticia/hackathon-da-uber-em-2019
+- https://canaltech.com.br/eventos/uber-hack-hackathon-de-mobilidade-esta-de-volta-em-segunda-edicao-138449/
+
+### 3º Hackathon CIAB FEBRABAN
+08 E 09 de junho de 2019
+- http://www.hackathonciab.com.br/
+
+### HackDay XP - TDC São Paulo 🥉
+19 e 20 de julho de 2019
+- http://www.hackathonlabxp.com.br/
