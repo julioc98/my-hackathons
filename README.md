@@ -118,6 +118,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### AngelHack 2019: São Paulo 🥇
 25 e 26 de maio de 2019
 - https://www.hackathon.io/angelhack-2019-sao-paulo
+- http://eventostech.com.br/index.php/event/angelhack-sp-2019/
 
 ### EY Global Hackathon 🥇
 25 e 26 de maio de 2019
