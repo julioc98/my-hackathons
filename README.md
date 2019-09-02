@@ -38,6 +38,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 
 ### IBM - Bluehack Desafio Agro 🥇
 25 e 26 de março de 2017 
+- https://hackdash.org/projects/58d7b04897b55c6e5c4b0214
 - https://www.impacta.edu.br/artigo/aluno-impacta-vence-hackathon-ibm
 
 ### NASA - Space Apps (Curitiba- PR) 🥈
