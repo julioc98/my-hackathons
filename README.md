@@ -3,13 +3,13 @@ Todos os Hackathons em que eu participei
 
 Não vou considerar como hackathons algumas competições em que eu participei e tinham formato parecido com hackathons mas realmente não as achei pertinentes de receberem esse nome...
 
-#### Total: 28 
+#### Total: 31 
 
 ### Podium
 
 - 🥇9 
-- 🥈3 
-- 🥉2
+- 🥈3
+- 🥉4
 - 💎1*
 
 *Finalista(quando tem mais de um vencedor e não revelam a ordem de classificação)
@@ -144,3 +144,18 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 ### 1º Hackathon ANBIMA
 31 de agosto e 1 de setembro de 2019
 - https://hackathon.anbima.com.br/
+
+### Hackathon CCR
+13 e 14 de junho de 2020
+- http://www.grupoccr.com.br/hackathonccr-anterior/
+
+### OPEN BANKING HACKA - LINA & BANFICO 🥉
+05 e 06 de dezembro de 2020
+- https://www.openbankinghacka.com/
+- https://youtu.be/Ak0L5GwQowU?t=3318
+
+### Hackathon paySmart-Elo 2020 🥉
+12 e 13 de dezembro de 2020
+- https://www.paysmart.com.br/eventos/hackathon2020/
+- https://play.google.com/store/apps/details?id=com.katarinamai.robin
+- https://youtu.be/BYHDNsPXrXY?t=2261
