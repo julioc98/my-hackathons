@@ -88,6 +88,8 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - http://maringa.odiario.com/empregos/2018/05/coddera-promove-hackathon-na-feira-do-estudante-do-ciee-com-foco-em-solucoes-de-atendimento-ao-cliente/2494372/
 - https://www.youtube.com/watch?v=Lm_n-il4Sc8
 - https://www.infomoney.com.br/negocios/noticias-corporativas/noticia/7459111/solucao-com-conceito-p2p-atendimento-clientes-vence-hackathon-feira-estudante
+- https://portal.ciee.org.br/estudantes/universitarios-brilham-na-expo-ciee/
+- https://www.impacta.com.br/blog/alunos-impacta-vencem-o-hackathon-da-expo-ciee/
 
 ### Uber HACK: São Paulo 
 02 e 03 de junho de 2018 
