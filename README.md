@@ -45,6 +45,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 29 e 30 de abril de 2017
 - https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
 - https://g1.globo.com/tecnologia/hackathon/2017/noticia/brasileiros-se-classificam-para-etapa-mundial-de-hackathon-da-nasa.ghtml
+- https://revistagalileu.globo.com/Ciencia/noticia/2017/08/brasileiros-ficam-entre-os-melhores-colocados-em-competicao-da-nasa.html
 
 ### Motorola MOD the future 
 20 e 21 de maio de 2017
