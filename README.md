@@ -5,7 +5,7 @@ Todos os Hackathons em que eu participei
 
 Não vou considerar como hackathons algumas competições em que eu participei e tinham formato parecido com hackathons mas realmente não as achei pertinentes de receberem esse nome...
 
-#### Total: 33
+#### Total: 35
 
 ### Podium
 
@@ -14,7 +14,7 @@ Não vou considerar como hackathons algumas competições em que eu participei e
 - 🥉 4
 - 💎 1*
 
-**18 pódios em 33 hackathons.**
+**18 pódios em 35 hackathons.**
 
 *Finalista (quando tem mais de um vencedor e não revelam a ordem de classificação)
 
@@ -173,9 +173,23 @@ _Classificado para a etapa mundial_
 - [Vídeo do resultado](https://youtu.be/BYHDNsPXrXY?t=2261)
 - [Código: robin](https://github.com/julioc98/robin)
 
+## 2023
+
+### Potência Hack (iFood / Potência Tech, online)
+27 e 28 de maio de 2023
+- [iFood: anúncio](https://institucional.ifood.com.br/noticias/potencia-tech-promove-hackathon-online-em-maio/)
+- [HackathonBR: selecionados](https://hackathonbrasil.com.br/lista-de-selecionados-para-o-hackathon-potencia-hack-powered-by-ifood/)
+- [Código: edudoar](https://github.com/julioc98/edudoar)
+- [Código: frontend](https://github.com/julioc98/potencia-hack-frontend)
+
+### Hackathon Citi
+junho de 2023
+- [Código: citi](https://github.com/julioc98/citi)
+
 ## 2024
 
 ### Stark Bank: AI Revolution 🥈
 agosto/setembro de 2024
+- [TI Inside: vencedores](https://tiinside.com.br/en/10/09/2024/Stark-Bank-Announces-AI-Revolution-Hackathon-Winners/)
 - [Código: starkbank](https://github.com/julioc98/starkbank)
 

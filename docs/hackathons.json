@@ -78,6 +78,14 @@
   {"name": "Hackathon paySmart-Elo 2020", "date": "12 e 13 de dezembro de 2020", "year": 2020, "place": 3,
    "links": [{"label": "Vídeo do resultado", "url": "https://youtu.be/BYHDNsPXrXY?t=2261"},
              {"label": "Código: robin", "url": "https://github.com/julioc98/robin"}]},
+  {"name": "Potência Hack (iFood / Potência Tech, online)", "date": "27 e 28 de maio de 2023", "year": 2023, "place": null,
+   "links": [{"label": "iFood: anúncio", "url": "https://institucional.ifood.com.br/noticias/potencia-tech-promove-hackathon-online-em-maio/"},
+             {"label": "HackathonBR: selecionados", "url": "https://hackathonbrasil.com.br/lista-de-selecionados-para-o-hackathon-potencia-hack-powered-by-ifood/"},
+             {"label": "Código: edudoar", "url": "https://github.com/julioc98/edudoar"},
+             {"label": "Código: frontend", "url": "https://github.com/julioc98/potencia-hack-frontend"}]},
+  {"name": "Hackathon Citi", "date": "junho de 2023", "year": 2023, "place": null,
+   "links": [{"label": "Código: citi", "url": "https://github.com/julioc98/citi"}]},
   {"name": "Stark Bank: AI Revolution", "date": "agosto/setembro de 2024", "year": 2024, "place": 2,
-   "links": [{"label": "Código: starkbank", "url": "https://github.com/julioc98/starkbank"}]}
+   "links": [{"label": "TI Inside: vencedores", "url": "https://tiinside.com.br/en/10/09/2024/Stark-Bank-Announces-AI-Revolution-Hackathon-Winners/"},
+             {"label": "Código: starkbank", "url": "https://github.com/julioc98/starkbank"}]}
 ]
