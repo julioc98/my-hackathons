@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hackathons · Julio Cesar dos Santos</title>
+<meta name="description" content="Todos os hackathons em que Julio Cesar dos Santos participou: pódios, notícias e código.">
+<meta property="og:title" content="Hackathons · Julio Cesar dos Santos">
+<meta property="og:description" content="Hackathons, pódios, notícias e código desde 2016.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏆</text></svg>">
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1b1b1f; --muted: #5d5d66; --line: #e3e3e0;
+    --accent: #0b6bcb; --gold: #b8860b; --silver: #6b7280; --bronze: #a0522d; --finalist: #7c3aed;
+    --gold-bg: #fdf6e3; --silver-bg: #f1f2f4; --bronze-bg: #fbefe7; --finalist-bg: #f3edfd;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111114; --surface: #1a1a1f; --text: #ececf1; --muted: #a0a0ab; --line: #2b2b33;
+      --accent: #5aa9ff; --gold: #e3b341; --silver: #b5bac4; --bronze: #d9895b; --finalist: #b394f5;
+      --gold-bg: #2b2412; --silver-bg: #23252a; --bronze-bg: #2c1e16; --finalist-bg: #241d33;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 56px 20px 80px; }
+  header h1 { font-size: clamp(2rem, 5vw, 2.8rem); line-height: 1.1; margin: 0 0 10px; letter-spacing: -0.02em; }
+  header p { color: var(--muted); margin: 0; max-width: 60ch; }
+  header a { color: var(--accent); }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin: 36px 0 28px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .stat b { display: block; font-size: 1.9rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .stat span { color: var(--muted); font-size: .88rem; }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+  .filters button { font: inherit; font-size: .9rem; border: 1px solid var(--line); background: var(--surface);
+    color: var(--text); border-radius: 999px; padding: 6px 14px; cursor: pointer; }
+  .filters button[aria-pressed="true"] { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .filters button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .year { display: grid; grid-template-columns: 72px 1fr; gap: 16px; margin-bottom: 28px; }
+  .year h2 { margin: 6px 0 0; font-size: 1.1rem; color: var(--muted); font-variant-numeric: tabular-nums; position: sticky; top: 16px; align-self: start; }
+  .cards { display: grid; gap: 10px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .card.p1 { border-left: 4px solid var(--gold); }
+  .card.p2 { border-left: 4px solid var(--silver); }
+  .card.p3 { border-left: 4px solid var(--bronze); }
+  .card.pf { border-left: 4px solid var(--finalist); }
+  .card h3 { margin: 0; font-size: 1.02rem; display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .badge { font-size: .75rem; font-weight: 600; border-radius: 999px; padding: 2px 9px; white-space: nowrap; }
+  .b1 { color: var(--gold); background: var(--gold-bg); }
+  .b2 { color: var(--silver); background: var(--silver-bg); }
+  .b3 { color: var(--bronze); background: var(--bronze-bg); }
+  .bf { color: var(--finalist); background: var(--finalist-bg); }
+  .meta { color: var(--muted); font-size: .9rem; margin-top: 2px; }
+  .note { font-size: .9rem; margin-top: 4px; }
+  .links { display: flex; flex-wrap: wrap; gap: 6px 14px; margin: 8px 0 0; padding: 0; list-style: none; font-size: .9rem; }
+  .links a { color: var(--accent); text-decoration: none; }
+  .links a:hover { text-decoration: underline; }
+  footer { color: var(--muted); font-size: .85rem; margin-top: 48px; border-top: 1px solid var(--line); padding-top: 16px; }
+  footer a { color: var(--accent); }
+  @media (max-width: 560px) {
+    .year { grid-template-columns: 1fr; gap: 8px; }
+    .year h2 { position: static; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Hackathons 🏆</h1>
+    <p>Todos os hackathons em que participei desde 2016: pódios, notícias e o código que saiu de cada um.
+      Por <a href="https://www.linkedin.com/in/juliocesarfmt/">Julio Cesar dos Santos</a> ·
+      <a href="https://github.com/julioc98">GitHub</a></p>
+  </header>
+
+  <section class="stats" id="stats" aria-label="Resumo"></section>
+
+  <nav class="filters" id="filters" aria-label="Filtrar">
+    <button data-f="all" aria-pressed="true">Todos</button>
+    <button data-f="podium" aria-pressed="false">Pódios</button>
+    <button data-f="1" aria-pressed="false">🥇 1º lugar</button>
+  </nav>
+
+  <main id="list"><p class="meta">Carregando…</p></main>
+
+  <footer>
+    Links marcados com <em>(arquivo)</em> abrem uma cópia no <a href="https://web.archive.org/">Internet Archive</a>, porque o site original saiu do ar.
+    Links verificados em novembro de 2026. Fonte: <a href="https://github.com/julioc98/my-hackathons">github.com/julioc98/my-hackathons</a>.
+  </footer>
+</div>
+
+<script>
+const PLACE = {
+  1: { cls: "p1", badge: "b1", text: "🥇 1º lugar" },
+  2: { cls: "p2", badge: "b2", text: "🥈 2º lugar" },
+  3: { cls: "p3", badge: "b3", text: "🥉 3º lugar" },
+  finalist: { cls: "pf", badge: "bf", text: "💎 Finalista" },
+};
+
+const el = (tag, attrs = {}, ...kids) => {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+  for (const k of kids) n.append(k);
+  return n;
+};
+
+function renderStats(H) {
+  const count = p => H.filter(h => h.place === p).length;
+  const podium = H.filter(h => h.place).length;
+  const years = new Set(H.map(h => h.year));
+  const items = [
+    [H.length, "hackathons"], [podium, "pódios"], [count(1), "1º lugares"],
+    [count(2) + count(3), "2º e 3º lugares"], [years.size, "anos diferentes"],
+  ];
+  const s = document.getElementById("stats");
+  s.replaceChildren(...items.map(([n, l]) => el("div", { class: "stat" }, el("b", {}, String(n)), el("span", {}, l))));
+}
+
+function renderList(H, filter) {
+  const keep = h => filter === "all" ? true : filter === "podium" ? !!h.place : h.place === Number(filter);
+  const rows = H.filter(keep).slice().reverse();
+  const byYear = new Map();
+  for (const h of rows) (byYear.get(h.year) || byYear.set(h.year, []).get(h.year)).push(h);
+
+  const list = document.getElementById("list");
+  list.replaceChildren(...[...byYear].map(([year, hs]) =>
+    el("section", { class: "year" },
+      el("h2", {}, String(year)),
+      el("div", { class: "cards" }, ...hs.map(h => {
+        const p = PLACE[h.place];
+        const title = el("h3", {}, h.name);
+        if (p) title.append(el("span", { class: "badge " + p.badge }, p.text));
+        const card = el("article", { class: "card " + (p ? p.cls : "") }, title, el("div", { class: "meta" }, h.date));
+        if (h.note) card.append(el("div", { class: "note" }, h.note));
+        if (h.links.length) card.append(el("ul", { class: "links" },
+          ...h.links.map(l => el("li", {}, el("a", { href: l.url, target: "_blank", rel: "noopener" }, l.label)))));
+        return card;
+      })))
+  ));
+}
+
+fetch("hackathons.json")
+  .then(r => r.json())
+  .then(H => {
+    renderStats(H);
+    renderList(H, "all");
+    document.getElementById("filters").addEventListener("click", e => {
+      const b = e.target.closest("button");
+      if (!b) return;
+      document.querySelectorAll("#filters button").forEach(x => x.setAttribute("aria-pressed", x === b));
+      renderList(H, b.dataset.f);
+    });
+  })
+  .catch(() => {
+    document.getElementById("list").replaceChildren(el("p", { class: "meta" }, "Não foi possível carregar a lista. Veja o README no GitHub."));
+  });
+</script>
+</body>
+</html>

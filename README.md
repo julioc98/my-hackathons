@@ -1,164 +1,181 @@
 # My Hackathons
 Todos os Hackathons em que eu participei
 
+🌐 **Versão visual:** https://julioc98.github.io/my-hackathons/
+
 Não vou considerar como hackathons algumas competições em que eu participei e tinham formato parecido com hackathons mas realmente não as achei pertinentes de receberem esse nome...
 
-#### Total: 31 
+#### Total: 33
 
 ### Podium
 
-- 🥇9 
-- 🥈3
-- 🥉4
-- 💎1*
+- 🥇 9
+- 🥈 4
+- 🥉 4
+- 💎 1*
 
-*Finalista(quando tem mais de um vencedor e não revelam a ordem de classificação)
+**18 pódios em 33 hackathons.**
 
-### GS1 
-06 e 07 de Agosto de 2016  
-- https://www.gs1br.org/hackathon#main
+*Finalista (quando tem mais de um vencedor e não revelam a ordem de classificação)
 
-### FIESP 5ª EDIÇÃO 🥇
- 15 e 16 de outubro de 2016
-- http://www.fiesp.com.br/noticias/fiesp-anuncia-vencedores-da-5a-edicao-do-hackathon/
+> Links marcados com *(arquivo)* apontam para cópias no [Internet Archive](https://web.archive.org/), porque o site original saiu do ar. Links verificados em novembro de 2026.
 
-### IBM - Bluehack Desafio DOW de Agricultura Urbana 🥇
-5 a 6 de novembro de 2016  
-- https://www.facebook.com/IBMBrasil/posts/1213105558728307
-- https://www.thebrief.com.br/empreendedorismo/115296-bluehack-reune-700-entusiastas-tecnologia-paulo.htm
+## 2016
 
-### Santander - The Code Force 💎
+### GS1
+06 e 07 de agosto de 2016
+- [Página do evento](https://www.gs1br.org/hackathon#main)
+
+### FIESP 5ª Edição 🥇
+15 e 16 de outubro de 2016
+- [FIESP: vencedores](https://www.fiesp.com.br/noticias/fiesp-anuncia-vencedores-da-5a-edicao-do-hackathon/)
+
+### IBM Bluehack: Desafio DOW de Agricultura Urbana 🥇
+05 e 06 de novembro de 2016
+- [The Brief](https://www.thebrief.com.br/empreendedorismo/115296-bluehack-reune-700-entusiastas-tecnologia-paulo.htm)
+
+### Santander: The Code Force 💎
 10 e 11 de dezembro de 2016
-- https://www.impacta.edu.br/blog/hackathon-do-santander-alunos-impacta-finalistas/
+- [Impacta (arquivo)](https://web.archive.org/web/20210120120407/https://www.impacta.edu.br/blog/hackathon-do-santander-alunos-impacta-finalistas/)
+- [Código: BankBox_POS](https://github.com/julioc98/BankBox_POS)
 
 ### HackaNoel 🥇
 17 de dezembro de 2016
-- https://app.multitalentos.com.br/challenge/hackanoel 
-- https://app.multitalentos.com.br/challenge/hackanoel/teams/toys
+- [Desafio (arquivo)](https://web.archive.org/web/20170126122956/http://app.multitalentos.com.br/challenge/hackanoel)
 
-### IBM - Bluehack Desafio Agro 🥇
-25 e 26 de março de 2017 
-- https://hackdash.org/projects/58d7b04897b55c6e5c4b0214
-- https://www.impacta.edu.br/artigo/aluno-impacta-vence-hackathon-ibm
+## 2017
 
-### NASA - Space Apps (Curitiba- PR) 🥈
-29 e 30 de abril de 2017
-- https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter
-- https://g1.globo.com/tecnologia/hackathon/2017/noticia/brasileiros-se-classificam-para-etapa-mundial-de-hackathon-da-nasa.ghtml
-- https://revistagalileu.globo.com/Ciencia/noticia/2017/08/brasileiros-ficam-entre-os-melhores-colocados-em-competicao-da-nasa.html
+### IBM Bluehack: Desafio Agro 🥇
+25 e 26 de março de 2017
+- [HackDash](https://hackdash.org/projects/58d7b04897b55c6e5c4b0214)
+- [Código: bluehack2017](https://github.com/julioc98/bluehack2017)
 
-### Motorola MOD the future 
+### NASA Space Apps Challenge (Curitiba, PR) 🥈
+29 e 30 de abril de 2017  
+_Classificado para a etapa mundial_
+- [Space Apps 2017](https://2017.spaceappschallenge.org/locations/curitiba-brasil-jupter)
+- [G1](https://g1.globo.com/tecnologia/hackathon/2017/noticia/brasileiros-se-classificam-para-etapa-mundial-de-hackathon-da-nasa.ghtml)
+- [Revista Galileu](https://revistagalileu.globo.com/Ciencia/noticia/2017/08/brasileiros-ficam-entre-os-melhores-colocados-em-competicao-da-nasa.html)
+
+### Motorola: MOD the Future
 20 e 21 de maio de 2017
-- https://www.hellomoto.com.br/hackathon-mod-the-future-nos-vimos-o-futuro/
+- [Hello Moto (arquivo)](https://web.archive.org/web/20251205145450/https://www.hellomoto.com.br/hackathon-mod-the-future-nos-vimos-o-futuro/)
 
-### FIESP 6ª EDIÇÃO 
-5 e 6 de agosto de 2017 
-- https://startupi.com.br/evento/6o-hackathon-fiesp/
+### FIESP 6ª Edição
+05 e 06 de agosto de 2017
 
-### Guarulhos - Experimenta Mobilidade Urbana 🥈
-27 e 28 agosto de 2017 
-- http://www.guarulhos.sp.gov.br/desenvolvimento-economico/conteudo/experimenta-apresenta-solu%C3%A7%C3%B5es-para-mobilidade-urbana-em
+### Guarulhos: Experimenta Mobilidade Urbana 🥈
+27 e 28 de agosto de 2017
 
-### IBM - Bluehack 
-11 a 12 de Novembro de 2017 
-- https://www.blueopen.org/bluehacksp
+### Petrobras: Postos BR (Rio de Janeiro, RJ)
+30 de setembro e 01 de outubro de 2017
+- [Hotsite (arquivo)](https://web.archive.org/web/20180228193025/http://hotsitesbr.com.br/hackathon/)
 
-### Petrobras (Postos BR) (Rio de Janeiro -RJ) 
-30 de setembro e 01 de outubro de 2017 
-- http://hotsitesbr.com.br/hackathon/
+### IBM Bluehack
+11 e 12 de novembro de 2017
+- [Blue Open (arquivo)](https://web.archive.org/web/20191114044843/https://www.blueopen.org/bluehacksp)
 
-### ABRAMIT - MIT INSIGHTS 
-14 e 15 de novembro de 2017 
-- http://abramit.org/hackathon.html
+### ABRAMIT: MIT Insights
+14 e 15 de novembro de 2017
+- [ABRAMIT (arquivo)](https://web.archive.org/web/20180729024559/http://abramit.org/hackathon.html)
 
-### Original  
-2 e 3 de dezembro de 2017 
-- http://fintechlab.com.br/index.php/2017/12/01/banco-original-faz-hackathon-com-foco-em-inteligencia-artificial-e-open-banking/
- 
-### Google.org - TA DE PÉ 🥇
-10 e 11 de março de 2018 
-- https://www.transparencia.org.br/blog/diversidade-gera-mais-inovacao-na-hackathon-ta-de-pe/
+### Banco Original
+02 e 03 de dezembro de 2017
+- [Fintechlab](https://fintechlab.com.br/index.php/2017/12/01/banco-original-faz-hackathon-com-foco-em-inteligencia-artificial-e-open-banking/)
+- [Código: OpenBankingOriginal](https://github.com/julioc98/OpenBankingOriginal)
+
+## 2018
+
+### Google.org: Tá de Pé 🥇
+10 e 11 de março de 2018
 
 ### APAS Show
-08 a 09 de maio 2018 
-- http://www.apasshow.com.br/arena-hackaton-tem-inicio-com-grandes-desafios-para-reduzir-filas-e-controle-de-prazos-de-validade/
+08 e 09 de maio de 2018
+- [APAS Show](http://www.apasshow.com.br/arena-hackaton-tem-inicio-com-grandes-desafios-para-reduzir-filas-e-controle-de-prazos-de-validade/)
+- [Código: hackathon-apas](https://github.com/julioc98/hackathon-apas)
 
 ### Expo CIEE São Paulo 🥇
-25 a 27 de maio 2018 
-- http://maringa.odiario.com/empregos/2018/05/coddera-promove-hackathon-na-feira-do-estudante-do-ciee-com-foco-em-solucoes-de-atendimento-ao-cliente/2494372/
-- https://www.youtube.com/watch?v=Lm_n-il4Sc8
-- https://www.infomoney.com.br/negocios/noticias-corporativas/noticia/7459111/solucao-com-conceito-p2p-atendimento-clientes-vence-hackathon-feira-estudante
-- https://portal.ciee.org.br/estudantes/universitarios-brilham-na-expo-ciee/
-- https://www.impacta.com.br/blog/alunos-impacta-vencem-o-hackathon-da-expo-ciee/
+25 a 27 de maio de 2018
+- [Impacta](https://www.impacta.com.br/blog/alunos-impacta-vencem-o-hackathon-da-expo-ciee/)
+- [Vídeo](https://www.youtube.com/watch?v=Lm_n-il4Sc8)
 
-### Uber HACK: São Paulo 
-02 e 03 de junho de 2018 
-- https://www.uber.com/info/uberhack/sao-paulo/
+### Uber HACK São Paulo
+02 e 03 de junho de 2018
 
-### 2º CIAB FEBRABAN 
-09 e 10 de junho de 2018 
-- http://hackathonciab.com.br/
+### 2º Hackathon CIAB FEBRABAN
+09 e 10 de junho de 2018
+- [Site do evento (arquivo)](https://web.archive.org/web/20200222141644/http://www.hackathonciab.com.br/)
 
-### Serasa Experian - Experiance Jam (São Carlos - SP)
-18 e 19 de agosto de 2018 
-- http://experiancejam.com.br/
+### Serasa Experian: Experiance Jam (São Carlos, SP)
+18 e 19 de agosto de 2018
+- [Site do evento (arquivo)](https://web.archive.org/web/20210305190038/https://experiancejam.com.br/)
 
 ### Tech Cycle Challenge 🥈
 25 e 26 de agosto de 2018
-- http://www.bikebrasilexpo.com.br/pt/tech-cycle-challenge
+- [Bike Brasil Expo (arquivo)](https://web.archive.org/web/20190129190020/http://www.bikebrasilexpo.com.br/pt/tech-cycle-challenge)
 
-### Loggathon 🥇
-15 e 16 de dezembro de 2018 
-- https://computerworld.com.br/2018/12/03/loggi-abre-inscricoes-para-seu-primeiro-hackathon/
-- https://www.hackathon.com/event/loggathon-5c081c5a347b110004c2fa6f
-- https://picgra.com/tag/loggathon
-- https://www.facebook.com/search/top/?q=loggathon%20ganhadores&epa=SEARCH_BOX
+### Loggathon (Loggi) 🥇
+15 e 16 de dezembro de 2018
+- [Computerworld](https://computerworld.com.br/2018/12/03/loggi-abre-inscricoes-para-seu-primeiro-hackathon/)
+- [Hackathon.com](https://www.hackathon.com/event/loggathon-5c081c5a347b110004c2fa6f)
 
-### BTP:CODE - HACKATHON DOS PORTOS (Santos -SP) 🥉
-6 e 7 de abril de 2019
-- https://computerworld.com.br/2019/03/13/hackathon-em-santos-busca-solucoes-inovadoras-para-porto/
-- https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2019/04/07/escala-de-navios-com-inteligencia-artificial-vence-maratona-de-30h-para-inovacao-do-setor-portuario.ghtml
-- https://www.youtube.com/watch?v=aKGK7YBiXVw
+## 2019
 
-### AngelHack 2019: São Paulo 🥇
+### BTP:CODE: Hackathon dos Portos (Santos, SP) 🥉
+06 e 07 de abril de 2019
+- [G1](https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2019/04/07/escala-de-navios-com-inteligencia-artificial-vence-maratona-de-30h-para-inovacao-do-setor-portuario.ghtml)
+- [Computerworld](https://computerworld.com.br/2019/03/13/hackathon-em-santos-busca-solucoes-inovadoras-para-porto/)
+- [Vídeo](https://www.youtube.com/watch?v=aKGK7YBiXVw)
+
+### AngelHack 2019 São Paulo 🥇
 25 e 26 de maio de 2019
-- https://www.hackathon.io/angelhack-2019-sao-paulo
-- http://eventostech.com.br/index.php/event/angelhack-sp-2019/
+- [Hackathon.io (arquivo)](https://web.archive.org/web/20230925054105/https://www.hackathon.io/angelhack-2019-sao-paulo)
 
 ### EY Global Hackathon 🥇
 25 e 26 de maio de 2019
-- https://www.facebook.com/EYBrasil/photos/a.390593504339382/2446360372096008/?type=3
+- [EY Brasil no Facebook (requer login)](https://www.facebook.com/EYBrasil/photos/a.390593504339382/2446360372096008/?type=3)
 
-### Uber Hack: São Paulo 
-1 e 2 de junho de 2019
-- https://www.uber.com/br/pt-br/u/uberhack/
-- https://www.uber.com/pt-BR/blog/sao-paulo/uber-hack-2019/
-- https://imasters.com.br/noticia/hackathon-da-uber-em-2019
-- https://canaltech.com.br/eventos/uber-hack-hackathon-de-mobilidade-esta-de-volta-em-segunda-edicao-138449/
+### Uber HACK São Paulo
+01 e 02 de junho de 2019
+- [Blog da Uber](https://www.uber.com/br/pt-br/blog/uber-hack-2019/)
+- [Uber HACK (arquivo)](https://web.archive.org/web/20230207064353/https://www.uber.com/br/pt-br/u/uberhack/)
+- [iMasters](https://imasters.com.br/noticia/hackathon-da-uber-em-2019)
+- [Canaltech](https://canaltech.com.br/eventos/uber-hack-hackathon-de-mobilidade-esta-de-volta-em-segunda-edicao-138449/)
 
 ### 3º Hackathon CIAB FEBRABAN
-08 E 09 de junho de 2019
-- http://www.hackathonciab.com.br/
+08 e 09 de junho de 2019
+- [Site do evento (arquivo)](https://web.archive.org/web/20200222141644/http://www.hackathonciab.com.br/)
+- [Código: enel](https://github.com/julioc98/enel)
 
-### HackDay XP - TDC São Paulo 🥉
+### HackDay XP: TDC São Paulo 🥉
 19 e 20 de julho de 2019
-- http://www.hackathonlabxp.com.br/
 
 ### 1º Hackathon ANBIMA
-31 de agosto e 1 de setembro de 2019
-- https://hackathon.anbima.com.br/
+31 de agosto e 01 de setembro de 2019
+- [Site do evento (arquivo)](https://web.archive.org/web/20210122053100/https://hackathon.anbima.com.br/)
+- [Código: anbima](https://github.com/julioc98/anbima)
+
+## 2020
 
 ### Hackathon CCR
 13 e 14 de junho de 2020
-- http://www.grupoccr.com.br/hackathonccr-anterior/
+- [Grupo CCR (arquivo)](https://web.archive.org/web/20220624224252/http://www.grupoccr.com.br/hackathonccr-anterior/)
+- [Código: ccr-api](https://github.com/julioc98/ccr-api)
 
-### OPEN BANKING HACKA - LINA & BANFICO 🥉
+### Open Banking Hacka: Lina & Banfico 🥉
 05 e 06 de dezembro de 2020
-- https://www.openbankinghacka.com/
-- https://youtu.be/Ak0L5GwQowU?t=3318
+- [Site do evento (arquivo)](https://web.archive.org/web/20210506060401/https://www.openbankinghacka.com/)
+- [Vídeo do resultado](https://youtu.be/Ak0L5GwQowU?t=3318)
+- [Código: openbanking](https://github.com/julioc98/openbanking)
 
 ### Hackathon paySmart-Elo 2020 🥉
 12 e 13 de dezembro de 2020
-- https://www.paysmart.com.br/eventos/hackathon2020/
-- https://play.google.com/store/apps/details?id=com.katarinamai.robin
-- https://youtu.be/BYHDNsPXrXY?t=2261
+- [Vídeo do resultado](https://youtu.be/BYHDNsPXrXY?t=2261)
+- [Código: robin](https://github.com/julioc98/robin)
+
+## 2024
+
+### Stark Bank: AI Revolution 🥈
+agosto/setembro de 2024
+- [Código: starkbank](https://github.com/julioc98/starkbank)
+
